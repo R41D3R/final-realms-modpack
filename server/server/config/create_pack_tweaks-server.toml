@@ -1,0 +1,18 @@
+#Disable all Create train-related recipes and items in JEI
+disable_trains = false
+#Disable all Create post-production recipes and items in JEI
+disable_post_production = true
+#Disable selected overpowered Create equipment recipes and items in JEI
+disable_op_items = true
+#Recipe IDs to disable when disable_trains is true
+trainRecipes = ["create:crafting/kinetics/track", "create:sequenced_assembly/track", "create:crafting/kinetics/track_station", "create:crafting/kinetics/track_signal", "create:crafting/kinetics/track_observer", "create:crafting/kinetics/track_observer_from_other_plates", "create:crafting/kinetics/controls", "create:crafting/kinetics/small_bogey", "create:crafting/kinetics/large_bogey", "create:crafting/logistics/schedule", "create:crafting/kinetics/steam_whistle", "create:crafting/curiosities/minecart_coupling"]
+#Recipe IDs to disable when disable_post_production is true
+postProductionRecipes = ["create:crafting/kinetics/deployer", "create:crafting/logistics/mechanical_arm", "create:crafting/kinetics/mechanical_crafter", "create:crafting/kinetics/belt_connector", "create:crafting/logistics/andesite_funnel", "create:crafting/logistics/brass_funnel", "create:crafting/logistics/andesite_tunnel", "create:crafting/logistics/brass_tunnel", "create:crafting/kinetics/chute", "create:crafting/kinetics/smart_chute", "create:crafting/kinetics/depot", "create:crafting/kinetics/weighted_ejector", "create:crafting/kinetics/mechanical_saw", "create:crafting/kinetics/mechanical_drill"]
+#Recipe IDs to disable when disable_op_items is true
+opItemRecipes = ["create:crafting/appliances/copper_backtank", "create:crafting/appliances/copper_diving_helmet", "create:crafting/appliances/netherite_backtank", "create:crafting/appliances/netherite_backtank_from_netherite", "create:crafting/appliances/netherite_diving_helmet", "create:crafting/appliances/netherite_diving_helmet_from_netherite", "create:crafting/appliances/netherite_diving_boots", "create:crafting/appliances/netherite_diving_boots_from_netherite", "create:mechanical_crafting/extendo_grip", "create:mechanical_crafting/wand_of_symmetry", "create:mechanical_crafting/potato_cannon"]
+#Item IDs to hide in JEI when disable_trains is true
+trainItems = ["create:track", "create:track_station", "create:track_signal", "create:track_observer", "create:controls", "create:railway_casing", "create:small_bogey", "create:large_bogey", "create:schedule", "create:steam_whistle", "create:steam_whistle_extension", "create:train_trapdoor", "create:minecart_coupling", "create:incomplete_track"]
+#Item IDs to hide in JEI when disable_post_production is true
+postProductionItems = ["create:deployer", "create:mechanical_arm", "create:mechanical_crafter", "create:belt_connector", "create:andesite_funnel", "create:brass_funnel", "create:andesite_tunnel", "create:brass_tunnel", "create:chute", "create:smart_chute", "create:depot", "create:weighted_ejector", "create:mechanical_saw", "create:mechanical_drill"]
+#Item IDs to hide in JEI when disable_op_items is true
+opItems = ["create:copper_backtank", "create:copper_backtank_placeable", "create:copper_diving_helmet", "create:netherite_backtank", "create:netherite_backtank_placeable", "create:netherite_diving_helmet", "create:netherite_diving_boots", "create:extendo_grip", "create:wand_of_symmetry", "create:potato_cannon"]

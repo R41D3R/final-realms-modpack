@@ -1,0 +1,6 @@
+#Maximum lifetime for an ender pearl before it is forced to teleport its owner.
+#20 ticks is one second. The default 600 ticks is 30 seconds.
+#Set to 0 to disable the forced timeout.
+# Default: 600
+# Range: 0 ~ 72000
+enderPearlTimeoutTicks = 600

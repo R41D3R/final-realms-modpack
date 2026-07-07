@@ -1,0 +1,10 @@
+#Enable Mod
+enabled = true
+#Maximum tilt (0.0 - 0.7)
+# Default: 0.5
+# Range: 0.0 ~ 1.0
+minNormalY = 0.5
+#Tilt interpolation speed per frame (0.0 = never moves, 1.0 = instant snap)
+# Default: 0.07
+# Range: 0.0 ~ 1.0
+smoothSpeed = 0.07

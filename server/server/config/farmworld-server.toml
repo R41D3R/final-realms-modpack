@@ -1,0 +1,47 @@
+[portal]
+	#Block ids or block tags accepted as portal frames. Tags start with #.
+	frameBlocks = ["minecraft:glowstone"]
+	#Item ids or item tags that can light the portal. Tags start with #.
+	ignitionItems = ["minecraft:water_bucket"]
+	# Default: 2
+	# Range: 1 ~ 32
+	minPortalWidth = 2
+	# Default: 21
+	# Range: 1 ~ 64
+	maxPortalWidth = 21
+	# Default: 3
+	# Range: 1 ~ 32
+	minPortalHeight = 3
+	# Default: 21
+	# Range: 1 ~ 64
+	maxPortalHeight = 21
+	createDestinationPortal = true
+	portalBreaksLikeNetherPortal = true
+	portalBreaksFromExplosions = true
+	allowEntityTeleport = true
+	#Empty means all non-denied entity types may use the portal. Supports ids and #tags.
+	entityAllowList = []
+	#Entity ids or #tags blocked from the portal.
+	entityDenyList = ["#farmworld:portal_blacklist"]
+
+[reset]
+	scheduledResetEnabled = true
+	#Server-local 24-hour time in HH:mm format.
+	resetTime = "05:00"
+	warningMinutes = [15, 5, 1]
+	#Allowed Values: SPAWN, LAST_PORTAL_THEN_SPAWN, BED_THEN_SPAWN, LAST_PORTAL_THEN_BED_THEN_SPAWN, BED_THEN_LAST_PORTAL_THEN_SPAWN
+	playerEjectionMode = "LAST_PORTAL_THEN_SPAWN"
+
+[structures]
+	#Structure ids or #structure tags blocked only in farm dimensions.
+	farmworldExcludedStructures = []
+	#Structure ids or #structure tags blocked only outside farm dimensions.
+	normalworldExcludedStructures = []
+
+[diagnostics]
+	#Log Farmworld operation timings even when they are not slow.
+	enabled = false
+	#Operations at or above this duration are logged even when diagnostics.enabled is false.
+	# Default: 250
+	# Range: 1 ~ 60000
+	slowOperationMillis = 250

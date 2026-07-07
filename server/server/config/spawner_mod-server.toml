@@ -1,0 +1,22 @@
+enabled = true
+# Default: 0.15
+# Range: 0.0 ~ 1.0
+naturalSpawnKeepChance = 0.15
+naturalSpawnDimensions = ["*"]
+naturalSpawnCategories = ["monster"]
+# Default: 100
+# Range: 0 ~ 100000
+spawnerBreakXp = 100
+# Default: 0.5
+# Range: 0.0 ~ 1.0
+fragmentDropChance = 0.5
+soulDropChances = [0.02, 0.05, 0.1]
+eligibleSoulTypes = ["minecraft:zombie", "minecraft:skeleton", "minecraft:spider", "minecraft:cave_spider", "minecraft:blaze", "minecraft:magma_cube", "minecraft:guardian"]
+spawnerDiminishingReturnsEnabled = true
+# Default: 32
+# Range: 1 ~ 128
+spawnerClusterRadius = 32
+affectedSpawnerEntityTypes = ["minecraft:zombie", "minecraft:skeleton", "minecraft:spider", "minecraft:cave_spider", "minecraft:blaze", "minecraft:magma_cube", "minecraft:guardian"]
+# Default: 5.0
+# Range: 1.0 ~ 1024.0
+effectiveCapAfterTwenty = 5.0

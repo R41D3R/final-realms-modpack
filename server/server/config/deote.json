@@ -1,0 +1,12 @@
+{
+	"workingMode": "FIREWORKS",
+	"dimensionList": [
+		"minecraft:the_end"
+	],
+	"itemList": [],
+	"warningMessageEnabled": true,
+	"flightDisabledMessage": "§cThe atmosphere here is too dense to allow the wings to open",
+	"fireworksDisabledMessage": "§cIt's hard to light a fuse in flight",
+	"modRequired": false,
+	"modRequiredMessage": "§cYou need to have the \"Disable Elytra Outside The End\" mod installed to connect to this server."
+}

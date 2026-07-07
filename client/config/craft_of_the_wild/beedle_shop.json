@@ -1,0 +1,194 @@
+{
+  "movement_lock_item": "minecraft:diamond",
+  "enable_movement_lock_interaction": false,
+  "enable_sleeping": false,
+  "weekly_offer_count": 7,
+  "restock_interval_days": 1,
+  "restock_time": 10,
+  "entries": [
+    {
+      "id": "arrows",
+      "weight": 1,
+      "buy": {
+        "item": "minecraft:emerald",
+        "count": 1
+      },
+      "sell": {
+        "item": "minecraft:arrow",
+        "count": 16
+      },
+      "max_uses": 16,
+      "xp": 1,
+      "price_multiplier": 0.05
+    },
+    {
+      "id": "bread",
+      "weight": 1,
+      "buy": {
+        "item": "minecraft:emerald",
+        "count": 1
+      },
+      "sell": {
+        "item": "minecraft:bread",
+        "count": 6
+      },
+      "max_uses": 16,
+      "xp": 1,
+      "price_multiplier": 0.05
+    },
+    {
+      "id": "beef",
+      "weight": 1,
+      "buy": {
+        "item": "minecraft:emerald",
+        "count": 1
+      },
+      "sell": {
+        "item": "minecraft:cooked_beef",
+        "count": 5
+      },
+      "max_uses": 12,
+      "xp": 1,
+      "price_multiplier": 0.05
+    },
+    {
+      "id": "mutton",
+      "weight": 1,
+      "buy": {
+        "item": "minecraft:emerald",
+        "count": 1
+      },
+      "sell": {
+        "item": "minecraft:cooked_mutton",
+        "count": 5
+      },
+      "max_uses": 12,
+      "xp": 1,
+      "price_multiplier": 0.05
+    },
+    {
+      "id": "name_tag",
+      "weight": 1,
+      "buy": {
+        "item": "minecraft:emerald",
+        "count": 20
+      },
+      "sell": {
+        "item": "minecraft:name_tag",
+        "count": 1
+      },
+      "max_uses": 4,
+      "xp": 1,
+      "price_multiplier": 0.05
+    },
+    {
+      "id": "painting",
+      "weight": 1,
+      "buy": {
+        "item": "minecraft:emerald",
+        "count": 2
+      },
+      "sell": {
+        "item": "minecraft:painting",
+        "count": 3
+      },
+      "max_uses": 12,
+      "xp": 1,
+      "price_multiplier": 0.05
+    },
+    {
+      "id": "coal_trade",
+      "weight": 1,
+      "buy": {
+        "item": "minecraft:coal",
+        "count": 15
+      },
+      "sell": {
+        "item": "minecraft:emerald",
+        "count": 1
+      },
+      "max_uses": 12,
+      "xp": 1,
+      "price_multiplier": 0.05
+    },
+    {
+      "id": "ink_trade",
+      "weight": 1,
+      "buy": {
+        "item": "minecraft:ink_sac",
+        "count": 5
+      },
+      "sell": {
+        "item": "minecraft:emerald",
+        "count": 1
+      },
+      "max_uses": 12,
+      "xp": 1,
+      "price_multiplier": 0.05
+    },
+    {
+      "id": "rotten_flesh_trade",
+      "weight": 1,
+      "buy": {
+        "item": "minecraft:rotten_flesh",
+        "count": 32
+      },
+      "sell": {
+        "item": "minecraft:emerald",
+        "count": 1
+      },
+      "max_uses": 16,
+      "xp": 1,
+      "price_multiplier": 0.05
+    },
+    {
+      "id": "leather_trade",
+      "weight": 1,
+      "buy": {
+        "item": "minecraft:leather",
+        "count": 6
+      },
+      "sell": {
+        "item": "minecraft:emerald",
+        "count": 1
+      },
+      "max_uses": 16,
+      "xp": 1,
+      "price_multiplier": 0.05
+    },
+    {
+      "id": "rabbit_hide_trade",
+      "weight": 1,
+      "buy": {
+        "item": "minecraft:rabbit_hide",
+        "count": 2
+      },
+      "sell": {
+        "item": "minecraft:emerald",
+        "count": 4
+      },
+      "max_uses": 12,
+      "xp": 1,
+      "price_multiplier": 0.05
+    },
+    {
+      "id": "tipped_arrows",
+      "weight": 1,
+      "buy": {
+        "item": "minecraft:emerald",
+        "count": 2
+      },
+      "buy_b": {
+        "item": "minecraft:arrow",
+        "count": 5
+      },
+      "sell": {
+        "item": "minecraft:tipped_arrow",
+        "count": 5
+      },
+      "max_uses": 12,
+      "xp": 1,
+      "price_multiplier": 0.05
+    }
+  ]
+}

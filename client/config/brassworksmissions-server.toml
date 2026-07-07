@@ -1,0 +1,8 @@
+["Mission Reset"]
+	#A list of days of the week (in English, uppercase) on which to reset missions.
+	#Example: ["SUNDAY", "WEDNESDAY"]
+	missionResetDays = ["SUNDAY"]
+	#The hour (0-23) in UTC to reset missions on the specified days.
+	# Default: 0
+	# Range: 0 ~ 23
+	missionResetHour = 0

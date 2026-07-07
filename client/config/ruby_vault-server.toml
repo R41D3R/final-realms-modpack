@@ -1,0 +1,103 @@
+	[final_bucks]
+		#Master switch for Final Bucks rewards, balance additions, and gain notifications.
+		enabled = false
+
+	[final_bucks_sources.ruby_ore]
+		enabled = true
+		#Chance from 0.0 to 1.0 when Ruby Vault rolls this source.
+		# Default: 1.0
+		# Range: 0.0 ~ 1.0
+		chance = 1.0
+		# Default: 1
+		# Range: > 0
+		minAmount = 1
+		# Default: 3
+		# Range: > 0
+		maxAmount = 3
+		#Per-player cooldown in ticks for this source. 20 ticks = 1 second.
+		# Default: 0
+		# Range: > 0
+		cooldownTicks = 0
+
+	[final_bucks_sources.online_time]
+		enabled = true
+		#Chance from 0.0 to 1.0 when Ruby Vault rolls this source.
+		# Default: 1.0
+		# Range: 0.0 ~ 1.0
+		chance = 1.0
+		# Default: 1
+		# Range: > 0
+		minAmount = 1
+		# Default: 2
+		# Range: > 0
+		maxAmount = 2
+		#Per-player cooldown in ticks for this source. 20 ticks = 1 second.
+		# Default: 6000
+		# Range: > 0
+		cooldownTicks = 6000
+
+	[final_bucks_sources.realm_rpg_treasure_balloon]
+		enabled = true
+		#Chance from 0.0 to 1.0 when Ruby Vault rolls this source.
+		# Default: 1.0
+		# Range: 0.0 ~ 1.0
+		chance = 1.0
+		# Default: 2
+		# Range: > 0
+		minAmount = 2
+		# Default: 5
+		# Range: > 0
+		maxAmount = 5
+		#Per-player cooldown in ticks for this source. 20 ticks = 1 second.
+		# Default: 0
+		# Range: > 0
+		cooldownTicks = 0
+
+	[final_bucks_sources.archaeology_brushing]
+		enabled = true
+		#Chance from 0.0 to 1.0 when Ruby Vault rolls this source.
+		# Default: 1.0
+		# Range: 0.0 ~ 1.0
+		chance = 1.0
+		# Default: 1
+		# Range: > 0
+		minAmount = 1
+		# Default: 2
+		# Range: > 0
+		maxAmount = 2
+		#Per-player cooldown in ticks for this source. 20 ticks = 1 second.
+		# Default: 0
+		# Range: > 0
+		cooldownTicks = 0
+
+	[final_bucks_sources.loot_vase]
+		enabled = true
+		#Chance from 0.0 to 1.0 when Ruby Vault rolls this source.
+		# Default: 0.25
+		# Range: 0.0 ~ 1.0
+		chance = 0.25
+		# Default: 1
+		# Range: > 0
+		minAmount = 1
+		# Default: 3
+		# Range: > 0
+		maxAmount = 3
+		#Per-player cooldown in ticks for this source. 20 ticks = 1 second.
+		# Default: 0
+		# Range: > 0
+		cooldownTicks = 0
+
+[final_bucks_client]
+	#Allows award packets to trigger the client-side gain animations.
+	playGainAnimations = true
+	#Animation used by normal awards: SPRITE, ICON_FADE, or BOTH.
+	#Allowed Values: SPRITE, ICON_FADE, BOTH
+	defaultAnimation = "BOTH"
+	#Duration of the sprite-sheet animation in ticks.
+	# Default: 22
+	# Range: 1 ~ 200
+	spriteAnimationTicks = 22
+	#Duration of the icon/count fade animation in ticks.
+	# Default: 36
+	# Range: 1 ~ 200
+	iconFadeTicks = 36

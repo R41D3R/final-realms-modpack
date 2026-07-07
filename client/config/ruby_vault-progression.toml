@@ -1,0 +1,5 @@
+[progression]
+	#Applies Ruby Vault's early tool durability, mining speed, and attack damage rebalance.
+	enableToolRebalance = true
+	#Format: tier=maxDamage,miningSpeed,attackDamageBonus. Supported tiers: wood, stone, copper, iron.
+	toolTierOverrides = ["wood=72,2.5,0.0", "stone=160,4.5,1.0", "copper=220,5.5,1.0", "iron=300,6.5,2.0"]

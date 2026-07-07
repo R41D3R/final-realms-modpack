@@ -1,0 +1,35 @@
+[marathon]
+	enableMarathon = true
+	# Default: 0.12
+	# Range: 0.0 ~ 1.0
+	marathonLevelOneSprintReduction = 0.12
+	# Default: 0.24
+	# Range: 0.0 ~ 1.0
+	marathonLevelTwoSprintReduction = 0.24
+	# Default: 0.36
+	# Range: 0.0 ~ 1.0
+	marathonLevelThreeSprintReduction = 0.36
+	# Default: 0.48
+	# Range: 0.0 ~ 1.0
+	marathonLevelFourSprintReduction = 0.48
+	# Default: 0.6
+	# Range: 0.0 ~ 1.0
+	marathonLevelFiveSprintReduction = 0.6
+	# Default: 0.15
+	# Range: 0.0 ~ 1.0
+	marathonLevelOneLungeReduction = 0.15
+	# Default: 0.3
+	# Range: 0.0 ~ 1.0
+	marathonLevelTwoLungeReduction = 0.3
+	# Default: 0.45
+	# Range: 0.0 ~ 1.0
+	marathonLevelThreeLungeReduction = 0.45
+	# Default: 0.6
+	# Range: 0.0 ~ 1.0
+	marathonLevelFourLungeReduction = 0.6
+	# Default: 0.75
+	# Range: 0.0 ~ 1.0
+	marathonLevelFiveLungeReduction = 0.75
+
+[worldgen]
+	enableLegacyDappledForestBiome = false

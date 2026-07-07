@@ -1,0 +1,26 @@
+{
+  "configVersion": 2,
+  "blurContainers": true,
+  "blurBooks": true,
+  "blurSigns": true,
+  "blurCommandBlocks": true,
+  "blurTitleScreen": false,
+  "darkenTitleScreen": false,
+  "forceEnabledScreens": [
+    "dev.emi.emi.screen.RecipeScreen"
+  ],
+  "forceDisabledScreens": [
+    "net.irisshaders.iris.gui.screen.ShaderPackScreen"
+  ],
+  "useGradient": true,
+  "gradientStart": "#000000",
+  "gradientStartAlpha": 75,
+  "gradientEnd": "#000000",
+  "gradientEndAlpha": 75,
+  "gradientRotation": 0,
+  "rainbowMode": false,
+  "fadeTimeMillis": 0,
+  "fadeOutTimeMillis": 0,
+  "blurAnimationCurve": "FLAT",
+  "backgroundAnimationCurve": "FLAT"
+}

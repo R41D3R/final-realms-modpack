@@ -1,0 +1,18 @@
+{
+  "mobs": {
+    "igneo_talus": false,
+    "stone_talus": false,
+    "stone_talus_luminous": false,
+    "kilton": false,
+    "frost_talus": false,
+    "stone_talus_rare": false,
+    "frost_pebblit": false,
+    "beedle": true,
+    "kass": false,
+    "igneo_pebblit": false,
+    "stone_pebblit": false
+  },
+  "spawning": {
+    "beedle": true
+  }
+}

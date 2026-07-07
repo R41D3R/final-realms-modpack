@@ -1,0 +1,16 @@
+["Mission HUD"]
+	#X offset for the mission HUD from the corner of the screen.
+	# Default: 4
+	# Range: > 0
+	hudXOffset = 4
+	#Y offset for the mission HUD from the corner of the screen.
+	# Default: 4
+	# Range: > 0
+	hudYOffset = 4
+	#Align the mission HUD to the left side of the screen instead of the right.
+	leftAlignHud = false
+	#Align the mission HUD to the bottom of the screen instead of the top.
+	bottomAlignHud = false
+	#The size of the mission HUD.
+	#Allowed Values: NORMAL, SMALL, EXTRA_SMALL
+	hudSize = "NORMAL"

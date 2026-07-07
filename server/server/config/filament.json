@@ -1,0 +1,11 @@
+{
+  "debug": false,
+  "use_minimessage": false,
+  "commands": true,
+  "add_custom_menu_assets": true,
+  "prevent_adventure_mode_decoration_interaction": true,
+  "alternative_block_placement": false,
+  "alternative_cosmetic_placement": false,
+  "resourcepack_required": true,
+  "trim_armor_replace_chainmail": false
+}
