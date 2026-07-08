@@ -1,6 +1,6 @@
 {
     "schemaVersion": 1,
-    "realmHostVersion": "2026-07-08T12:12:42.769Z",
+    "realmHostVersion": "2026-07-08T17:00:53.418Z",
     "server": {
         "displayName": "Personal Realm",
         "minecraftVersion": "1.21.1",
@@ -2611,8 +2611,8 @@
             {
                 "path": "mods/realmbridge-0.1.0.jar",
                 "url": "https://raw.githubusercontent.com/R41D3R/final-realms-modpack/main/server/server/mods/realmbridge-0.1.0.jar",
-                "sha256": "83845b7e07432864abaef28766b2bfba1440d50dfc51bc3a86edd99e4131d6ed",
-                "size": 68056,
+                "sha256": "38ad4463a5927ead53631960fc8da14db9aeae43d079d6938309a1c9a07351f8",
+                "size": 72444,
                 "executable": false
             },
             {

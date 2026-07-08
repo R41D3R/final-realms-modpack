@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-08T12:12:42.634Z",
+  "generatedAt": "2026-07-08T17:00:53.277Z",
   "minecraftVersion": "1.21.1",
   "modLoader": {
     "id": "neoforge",
@@ -1957,9 +1957,9 @@
     {
       "path": "mods/realmbridge-0.1.0.jar",
       "url": "https://raw.githubusercontent.com/R41D3R/final-realms-modpack/main/client/mods/realmbridge-0.1.0.jar",
-      "size": 68056,
-      "MD5": "d467e04e5ab629667e02e0d934b13d33",
-      "sha256": "83845b7e07432864abaef28766b2bfba1440d50dfc51bc3a86edd99e4131d6ed"
+      "size": 72444,
+      "MD5": "5a49df309b11421a1e4653ce1b1e2bbe",
+      "sha256": "38ad4463a5927ead53631960fc8da14db9aeae43d079d6938309a1c9a07351f8"
     },
     {
       "path": "mods/realmrpg_balloons-0.9.1-neoforge-1.21.1.jar",
