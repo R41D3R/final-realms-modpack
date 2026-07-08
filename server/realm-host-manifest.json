@@ -1,6 +1,6 @@
 {
     "schemaVersion": 1,
-    "realmHostVersion": "2026-07-07T18:41:45.894Z",
+    "realmHostVersion": "2026-07-08T12:12:42.769Z",
     "server": {
         "displayName": "Personal Realm",
         "minecraftVersion": "1.21.1",
@@ -49,8 +49,8 @@
             {
                 "path": "config/aeronautics-server.toml",
                 "url": "https://raw.githubusercontent.com/R41D3R/final-realms-modpack/main/server/server/config/aeronautics-server.toml",
-                "sha256": "a9302b0253e494e7d80f0a2785bf4514b0b67da85796437ca032482db62be514",
-                "size": 3066,
+                "sha256": "733a50c4a935c18257572c88cf0df06e85978671930984248d4dac1ffdfb6b19",
+                "size": 2958,
                 "executable": false
             },
             {
@@ -98,15 +98,15 @@
             {
                 "path": "config/brassworksmissions-client.toml",
                 "url": "https://raw.githubusercontent.com/R41D3R/final-realms-modpack/main/server/server/config/brassworksmissions-client.toml",
-                "sha256": "4285e6fb637347f72b1857d59e9bb60f9527e773cca064890908e3eab1e6025d",
-                "size": 535,
+                "sha256": "818304001c1661cdab0e7147005a73858b02820cf579af4a5ff905b4cfbfe643",
+                "size": 519,
                 "executable": false
             },
             {
                 "path": "config/brassworksmissions-server.toml",
                 "url": "https://raw.githubusercontent.com/R41D3R/final-realms-modpack/main/server/server/config/brassworksmissions-server.toml",
-                "sha256": "3d3c7cbdf44bb52ca3614da2fdc5d8c2c6802a37156c71707bc65345df2a65d5",
-                "size": 292,
+                "sha256": "39ec0e6f0c41d314db38f33937087bb1165854eca9cc1cfef25d70947ba17ea3",
+                "size": 284,
                 "executable": false
             },
             {
@@ -140,8 +140,8 @@
             {
                 "path": "config/cameraoverhaul.toml",
                 "url": "https://raw.githubusercontent.com/R41D3R/final-realms-modpack/main/server/server/config/cameraoverhaul.toml",
-                "sha256": "4c87a4108f3085df5f77fd7402a63ba036d51ec114ef6e306821ce71ddc4887b",
-                "size": 5421,
+                "sha256": "099f93589e34d22e279ba2851036cf5cdc1a43ea19b4ada76412c9c608a3db05",
+                "size": 5280,
                 "executable": false
             },
             {
@@ -154,36 +154,36 @@
             {
                 "path": "config/cardboardchalkbox-common.toml",
                 "url": "https://raw.githubusercontent.com/R41D3R/final-realms-modpack/main/server/server/config/cardboardchalkbox-common.toml",
-                "sha256": "4502bef407cdfb04f45ac1da3516bdc52014420e80fbc44b195ff061332cd953",
-                "size": 330,
+                "sha256": "d640c77b9cbb56c6ca4bd3bf4194ad5fa6dd3572cd22934e29c547d9d8942632",
+                "size": 320,
                 "executable": false
             },
             {
                 "path": "config/carryon-client.toml",
                 "url": "https://raw.githubusercontent.com/R41D3R/final-realms-modpack/main/server/server/config/carryon-client.toml",
-                "sha256": "865a366143df5f4d92941058c823ea48deb8445f6444b45e870331b16a444f0f",
-                "size": 588,
+                "sha256": "c3cbcb17ade590daf230373d51457732bc8d9dd1039f7947b6bf564e38df1d9c",
+                "size": 582,
                 "executable": false
             },
             {
                 "path": "config/carryon-common.toml",
                 "url": "https://raw.githubusercontent.com/R41D3R/final-realms-modpack/main/server/server/config/carryon-common.toml",
-                "sha256": "80f73b76cea4c7947c0a750b9567b0af2f905bc32d310beaae4cdc63efcc473b",
-                "size": 8512,
+                "sha256": "64b3a9808f98d547bfc461f41e159cab6ef3c7525a98479e06adcbf65b027997",
+                "size": 8427,
                 "executable": false
             },
             {
                 "path": "config/chalk-client.toml",
                 "url": "https://raw.githubusercontent.com/R41D3R/final-realms-modpack/main/server/server/config/chalk-client.toml",
-                "sha256": "890d836552ae81d05454b2bb2d983bc22da093b1923c72dd1d1c8e6f2aad4d28",
-                "size": 774,
+                "sha256": "118cda205e30a3cfb22a15f14b00e0d56058efbc22c9fbe7a1a1a98a3e337e4e",
+                "size": 743,
                 "executable": false
             },
             {
                 "path": "config/chalk-common.toml",
                 "url": "https://raw.githubusercontent.com/R41D3R/final-realms-modpack/main/server/server/config/chalk-common.toml",
-                "sha256": "75780c622d85815d74083b4f436df374abb4dd11a7e4460d2a23e14fca8f1e7c",
-                "size": 1313,
+                "sha256": "ceda759da3d460f5808709fbf5e4f7ad45b266a0c976616b5ca6e642978f1986",
+                "size": 1278,
                 "executable": false
             },
             {
@@ -266,8 +266,8 @@
             {
                 "path": "config/create-client-1.toml.bak",
                 "url": "https://raw.githubusercontent.com/R41D3R/final-realms-modpack/main/server/server/config/create-client-1.toml.bak",
-                "sha256": "e20f6769fd946b918f24cfd54a422a599faa43394ee9a33012e645102a366da3",
-                "size": 4701,
+                "sha256": "da7f746b8a21a40618a7d4bfd0f3364b3cf1f46fc16cf9109fbbc8e54f93cf43",
+                "size": 4555,
                 "executable": false
             },
             {
@@ -280,15 +280,15 @@
             {
                 "path": "config/create-common.toml",
                 "url": "https://raw.githubusercontent.com/R41D3R/final-realms-modpack/main/server/server/config/create-common.toml",
-                "sha256": "2e77b1d93b40ce3f381ad7eb2a9e6d7148de917518be5c2616939a4369c4b140",
-                "size": 153,
+                "sha256": "1c632f62c30f4e1223669267196d2ff1a2c03e400bf565ff4fe81e20c7cd2bdf",
+                "size": 146,
                 "executable": false
             },
             {
                 "path": "config/create-server-1.toml.bak",
                 "url": "https://raw.githubusercontent.com/R41D3R/final-realms-modpack/main/server/server/config/create-server-1.toml.bak",
-                "sha256": "d063982581108b8c7ed6c670c4f4a302abe39be7bfeb565de96b8d9d880426cd",
-                "size": 16882,
+                "sha256": "3e64dfc68ede741a8f1ee3b62976d74f5a0962f4b7fdff9ab06bd70bf7ad5cc4",
+                "size": 16278,
                 "executable": false
             },
             {
@@ -301,71 +301,71 @@
             {
                 "path": "config/create-stuff-additions.toml",
                 "url": "https://raw.githubusercontent.com/R41D3R/final-realms-modpack/main/server/server/config/create-stuff-additions.toml",
-                "sha256": "7f82a5ae0f44dbed39558b5b93557a162e096c3a82a85e03e8f4b9aab15dc502",
-                "size": 837,
+                "sha256": "62932ecda1e4235a0ae69d15b4cef9dbc10b1debfa21b25f26a6e1b4b0356219",
+                "size": 805,
                 "executable": false
             },
             {
                 "path": "config/create_aquatic_ambitions-server.toml",
                 "url": "https://raw.githubusercontent.com/R41D3R/final-realms-modpack/main/server/server/config/create_aquatic_ambitions-server.toml",
-                "sha256": "501d4be5fa528302ab173dd86708e570935285505f44ef1fd0694b8cd60eee58",
-                "size": 922,
+                "sha256": "4e839d9ae6028a25a8b64995e70c230b219312389a5ce3f2a7050172ca779fde",
+                "size": 892,
                 "executable": false
             },
             {
                 "path": "config/create_chocolate_fountain-server.toml",
                 "url": "https://raw.githubusercontent.com/R41D3R/final-realms-modpack/main/server/server/config/create_chocolate_fountain-server.toml",
-                "sha256": "924861901696718180fb39836a7e072c71ab26709371354355c42230b40711ac",
-                "size": 1547,
+                "sha256": "0bd9f69c6f0bbc30d0cc3c0abc18f1916502af669b38e9cbb869b65e7f58934f",
+                "size": 1497,
                 "executable": false
             },
             {
                 "path": "config/create_dragons_plus-client.toml",
                 "url": "https://raw.githubusercontent.com/R41D3R/final-realms-modpack/main/server/server/config/create_dragons_plus-client.toml",
-                "sha256": "cf30f0e99ef65fe80e80481bf9aaafefdbbf97adb84c0c3611ac2d9ca3cf8a28",
-                "size": 302,
+                "sha256": "a3888f58a510d8e33e3caf8444af00c726f895f75f1d85f5b99c20c6ca420290",
+                "size": 292,
                 "executable": false
             },
             {
                 "path": "config/create_dragons_plus-common.toml",
                 "url": "https://raw.githubusercontent.com/R41D3R/final-realms-modpack/main/server/server/config/create_dragons_plus-common.toml",
-                "sha256": "a8922820cd44bd06733e0cf2693f15397b7bab77a6b3b2640dae4536af8e3a0d",
-                "size": 1454,
+                "sha256": "0f42cb765b27d07df5a406079dfee12f6154761e7a4fbfa5337644b530ca7853",
+                "size": 1405,
                 "executable": false
             },
             {
                 "path": "config/create_dragons_plus-server.toml",
                 "url": "https://raw.githubusercontent.com/R41D3R/final-realms-modpack/main/server/server/config/create_dragons_plus-server.toml",
-                "sha256": "06c232854b6d18ea18bd9bbbed7a0317c0113aad12734066a46a1d9d28278520",
-                "size": 353,
+                "sha256": "690d2f38456d0c23d3ed246e50251e8ac9f6a465f96dc7e58cda234256f4f189",
+                "size": 337,
                 "executable": false
             },
             {
                 "path": "config/create_dragons_plus-simulated-extension-common.toml",
                 "url": "https://raw.githubusercontent.com/R41D3R/final-realms-modpack/main/server/server/config/create_dragons_plus-simulated-extension-common.toml",
-                "sha256": "5517ebbdfed7db87afa77909bd289bd72e248f48cecc835438c0d0aa3db6f098",
-                "size": 441,
+                "sha256": "250402e27706589f00a7f86d5a6e7fe45503222117c9e7f8224c4342141291ec",
+                "size": 428,
                 "executable": false
             },
             {
                 "path": "config/create_dragons_plus-simulated-extension-server.toml",
                 "url": "https://raw.githubusercontent.com/R41D3R/final-realms-modpack/main/server/server/config/create_dragons_plus-simulated-extension-server.toml",
-                "sha256": "2abf35bbc1f4a4e8dbcb9903b43c161630fb0bf7b242dd42799ebb3fed8b88e1",
-                "size": 1389,
+                "sha256": "e791b19f84d21b925b174f459562ca7cc506406f0b1a14f94f2e76f5b61c1c7c",
+                "size": 1352,
                 "executable": false
             },
             {
                 "path": "config/create_enchantment_industry-client.toml",
                 "url": "https://raw.githubusercontent.com/R41D3R/final-realms-modpack/main/server/server/config/create_enchantment_industry-client.toml",
-                "sha256": "f1c6a25f81ec0f112e431b9064088e641c37b33a1aa16eed2bc4d03884c2b39c",
-                "size": 155,
+                "sha256": "a12fe6bf0d2f2b1c1a4ad05ab17cbd34f9fdf1dbcef20085f6b48a4dcf94d242",
+                "size": 150,
                 "executable": false
             },
             {
                 "path": "config/create_enchantment_industry-server.toml",
                 "url": "https://raw.githubusercontent.com/R41D3R/final-realms-modpack/main/server/server/config/create_enchantment_industry-server.toml",
-                "sha256": "9323b62dc2da8afd4311fbf7b28bffe1ad6b5b4770fca42ada11815e8091d9f7",
-                "size": 6462,
+                "sha256": "3bb1295b60bcfee0d818b20490e67ec7e43f5c04fb397ebba0a6d0ae87d3b4c5",
+                "size": 6269,
                 "executable": false
             },
             {
@@ -378,36 +378,36 @@
             {
                 "path": "config/create_power_loader-server.toml",
                 "url": "https://raw.githubusercontent.com/R41D3R/final-realms-modpack/main/server/server/config/create_power_loader-server.toml",
-                "sha256": "5c8b5c30f43e493b8e38b5a1bc767f5c117560ea1d9970d9c850dd02040ccbf2",
-                "size": 3107,
+                "sha256": "1f4b0b0c376b660a33567301e8df9923ef1f10de85c1791c9cd8dc19acd88a65",
+                "size": 3004,
                 "executable": false
             },
             {
                 "path": "config/createfisheryindustry-common.toml",
                 "url": "https://raw.githubusercontent.com/R41D3R/final-realms-modpack/main/server/server/config/createfisheryindustry-common.toml",
-                "sha256": "864d8eea4f7d12c871d19fc0288d6f2a882801eab7d88be890d6b132536ab616",
-                "size": 2814,
+                "sha256": "7dfd9d08187a5ba8028c82120d3e59af566108ce2a35b58b11cbb9babdd9c651",
+                "size": 2733,
                 "executable": false
             },
             {
                 "path": "config/createfisheryindustry-stressValues.v1.toml",
                 "url": "https://raw.githubusercontent.com/R41D3R/final-realms-modpack/main/server/server/config/createfisheryindustry-stressValues.v1.toml",
-                "sha256": "8aa0cc01a8dba812449482041168c8e6cfde6e281389121d6df7c29d7ebef1fb",
-                "size": 134,
+                "sha256": "2466c490adf6ca63d118613845bf3fe2d7f1e7a747e2c4ef7f23d64aa2b4285f",
+                "size": 129,
                 "executable": false
             },
             {
                 "path": "config/createsifter-client.toml",
                 "url": "https://raw.githubusercontent.com/R41D3R/final-realms-modpack/main/server/server/config/createsifter-client.toml",
-                "sha256": "604ab70af44962ebb35531b86a9dc9ae23092c06c146cbbf4fe29bb6b29132ee",
-                "size": 186,
+                "sha256": "9ae1ff81e57846222b2bae1dc203c3b05e2f87c67cd2a5a051d2b5d6e27b409d",
+                "size": 176,
                 "executable": false
             },
             {
                 "path": "config/createsifter-server.toml",
                 "url": "https://raw.githubusercontent.com/R41D3R/final-realms-modpack/main/server/server/config/createsifter-server.toml",
-                "sha256": "daff09d6b53c6a58a7d44f258385181356e3bead3032cf3a68787031a9121a99",
-                "size": 835,
+                "sha256": "72005156f3a5acdcde0736c8520ff374705715ca4b6e6d1308b224f253efb1e2",
+                "size": 789,
                 "executable": false
             },
             {
@@ -518,36 +518,36 @@
             {
                 "path": "config/envelope-client.toml",
                 "url": "https://raw.githubusercontent.com/R41D3R/final-realms-modpack/main/server/server/config/envelope-client.toml",
-                "sha256": "4c5a3fe27f87504713c3a0221e543ec8297ab0bd1e28a1060809433cd50d6a02",
-                "size": 259,
+                "sha256": "71e22a8f2f0c8296dad8a41a5a50f4a7d95933933858e1ea7d55f96a9a1bb280",
+                "size": 254,
                 "executable": false
             },
             {
                 "path": "config/envelope-server.toml",
                 "url": "https://raw.githubusercontent.com/R41D3R/final-realms-modpack/main/server/server/config/envelope-server.toml",
-                "sha256": "67c7c8b861bbcce4ccdbf6079c5237d6a539bdf03fd934b9d3d12198f39840c5",
-                "size": 4420,
+                "sha256": "df5e9ddef7d7335a5bb4181f31af070c6243559088d068144eff7eecd9b90fd1",
+                "size": 4297,
                 "executable": false
             },
             {
                 "path": "config/exposure-client.toml",
                 "url": "https://raw.githubusercontent.com/R41D3R/final-realms-modpack/main/server/server/config/exposure-client.toml",
-                "sha256": "cd8c2d6ef4dd823580b0e735f3f0049d5be109928520ec7e1d72f8668a16afef",
-                "size": 7689,
+                "sha256": "0dc61228d59f64bc42e705ccfd3c9d633f805d836a9cacd669b39ade3be5a1e2",
+                "size": 7540,
                 "executable": false
             },
             {
                 "path": "config/exposure-common.toml",
                 "url": "https://raw.githubusercontent.com/R41D3R/final-realms-modpack/main/server/server/config/exposure-common.toml",
-                "sha256": "f437a2bff2337eecc996f8d0d17d348403eae070045dfbd37065c6fcb79ce6ce",
-                "size": 351,
+                "sha256": "f2f309a4876192ac4b04d8f8f745d680ab8f368b6802acbd42d05748b986971d",
+                "size": 344,
                 "executable": false
             },
             {
                 "path": "config/exposure-server.toml",
                 "url": "https://raw.githubusercontent.com/R41D3R/final-realms-modpack/main/server/server/config/exposure-server.toml",
-                "sha256": "a4e7d2d6bac537024dda0a613d6edfbb114cb4971e692e010cf5a43cb743e675",
-                "size": 5376,
+                "sha256": "f48425f8dad0dbe60bdd0c32f0bff73a6d8f16b76afb94c9887c6aee492539d9",
+                "size": 5255,
                 "executable": false
             },
             {
@@ -763,15 +763,15 @@
             {
                 "path": "config/fishermens_trap-common.toml",
                 "url": "https://raw.githubusercontent.com/R41D3R/final-realms-modpack/main/server/server/config/fishermens_trap-common.toml",
-                "sha256": "11810e4d223449154e1b916daeb16e7061e16ee9b59aba96f3786203f5423f7d",
-                "size": 633,
+                "sha256": "f3de61c82ba6cde87a808096fc4550bf28fab8a212963ba7d2a00b55139821eb",
+                "size": 623,
                 "executable": false
             },
             {
                 "path": "config/flywheel-client-1.toml.bak",
                 "url": "https://raw.githubusercontent.com/R41D3R/final-realms-modpack/main/server/server/config/flywheel-client-1.toml.bak",
-                "sha256": "4ae4bcb313f7215d1466a36e008e0f20805c98e1aa5b46b154a81dbfdb098e9d",
-                "size": 636,
+                "sha256": "ecd95389db85d3c10b557cb2b59714f347b0fbd819b5b6e9c933d9e9666508f7",
+                "size": 622,
                 "executable": false
             },
             {
@@ -1057,22 +1057,22 @@
             {
                 "path": "config/neoforge-client.toml",
                 "url": "https://raw.githubusercontent.com/R41D3R/final-realms-modpack/main/server/server/config/neoforge-client.toml",
-                "sha256": "d58d93e2c429410d0abf25507d1679f732e1023b03bb52414348efcf5cf3ddb0",
-                "size": 578,
+                "sha256": "a5f0eb38f8daf8574f7672a8393a0ab5c668d6ec6e7ae43fc8669e928786929d",
+                "size": 570,
                 "executable": false
             },
             {
                 "path": "config/neoforge-common.toml",
                 "url": "https://raw.githubusercontent.com/R41D3R/final-realms-modpack/main/server/server/config/neoforge-common.toml",
-                "sha256": "fe878a2717a145cd890621eac5b3be1e1fd656f7ff9abc6e8d53f670d37474c4",
-                "size": 772,
+                "sha256": "e6f7578cf8c11ade0a47e36bf3863fc96f84cdf4bb679c0fceabb1e8a2f42399",
+                "size": 764,
                 "executable": false
             },
             {
                 "path": "config/neoforge-server.toml",
                 "url": "https://raw.githubusercontent.com/R41D3R/final-realms-modpack/main/server/server/config/neoforge-server.toml",
-                "sha256": "b1e3b38d612295f8d9dfa0fbdb538a992b7a1a3b7a766c491b4e9fdf3823396f",
-                "size": 1177,
+                "sha256": "0f1415d7fef6d7f6194275501d500b633dd3310aea40d64128edd1b096372f60",
+                "size": 1167,
                 "executable": false
             },
             {
@@ -1106,8 +1106,8 @@
             {
                 "path": "config/offroad-server.toml",
                 "url": "https://raw.githubusercontent.com/R41D3R/final-realms-modpack/main/server/server/config/offroad-server.toml",
-                "sha256": "d5f0ed8390618c769d9cb40a77df04779b7bbe636343b753c1ed6f92d325ae2b",
-                "size": 1167,
+                "sha256": "7dda83d4436419564b495e65b4123ab8453eb926cdd8dabc526e41d3ace6bf40",
+                "size": 1128,
                 "executable": false
             },
             {
@@ -1134,15 +1134,15 @@
             {
                 "path": "config/pipeorgans-client.toml",
                 "url": "https://raw.githubusercontent.com/R41D3R/final-realms-modpack/main/server/server/config/pipeorgans-client.toml",
-                "sha256": "d097195a20c1479091dd87d2c71f1b3bbe4a0fd5c4606171b37e52f18f2e56ba",
-                "size": 216,
+                "sha256": "415a694d3135b0ba6f452e81497971a91f43c563c0af9e4ac51283b0bed8bfb3",
+                "size": 212,
                 "executable": false
             },
             {
                 "path": "config/pipeorgans-server.toml",
                 "url": "https://raw.githubusercontent.com/R41D3R/final-realms-modpack/main/server/server/config/pipeorgans-server.toml",
-                "sha256": "8b62d4a3a9310c058521d58987e892026270478d7e63ea214d98a6b72f2722b4",
-                "size": 568,
+                "sha256": "27d874b4ffff283161e5e34f15658f8ac387cda76e2a7bb5248c807dbb364dc6",
+                "size": 552,
                 "executable": false
             },
             {
@@ -1183,8 +1183,8 @@
             {
                 "path": "config/ponder-client.toml",
                 "url": "https://raw.githubusercontent.com/R41D3R/final-realms-modpack/main/server/server/config/ponder-client.toml",
-                "sha256": "55affffe67e84dfe11e590769e235aee999b77f9484a3adf7ee8247a9f3d35ba",
-                "size": 635,
+                "sha256": "57fe579bf4cdbcab6c6702dc0dad2727b899f07f28fea686bca1e4b25b20bbfb",
+                "size": 615,
                 "executable": false
             },
             {
@@ -1253,8 +1253,8 @@
             {
                 "path": "config/sable-client-1.toml.bak",
                 "url": "https://raw.githubusercontent.com/R41D3R/final-realms-modpack/main/server/server/config/sable-client-1.toml.bak",
-                "sha256": "0abc8a8f2ce730e440521d4d3d2cb45ec475e9d5a0e01e17e74cfbd63a0bd26b",
-                "size": 680,
+                "sha256": "1a4676e6136f117f2587d32991720455c0a1b204498ebc7eb21e83f5912df222",
+                "size": 663,
                 "executable": false
             },
             {
@@ -1274,8 +1274,8 @@
             {
                 "path": "config/sable-common-2.toml.bak",
                 "url": "https://raw.githubusercontent.com/R41D3R/final-realms-modpack/main/server/server/config/sable-common-2.toml.bak",
-                "sha256": "5d10408ecdb80544b66bafb2c50a92c7aff961040d60e007c36258fb274b79cb",
-                "size": 1580,
+                "sha256": "0c007db15b5284399fbcc5811c91d6e0c4f02f3c3ac3239be6c42de5088d116d",
+                "size": 1544,
                 "executable": false
             },
             {
@@ -1295,8 +1295,8 @@
             {
                 "path": "config/simulated-client-1.toml.bak",
                 "url": "https://raw.githubusercontent.com/R41D3R/final-realms-modpack/main/server/server/config/simulated-client-1.toml.bak",
-                "sha256": "ae2634e6d32c7fb2e3cfe195f0d5c3a4bd2a1e073890d0abcc982065b41e8219",
-                "size": 646,
+                "sha256": "39e1269b6b3cec623ab69a170ee184c7504c302968c0213ccfbb0dcec71e3964",
+                "size": 628,
                 "executable": false
             },
             {
@@ -1309,8 +1309,8 @@
             {
                 "path": "config/simulated-server-1.toml.bak",
                 "url": "https://raw.githubusercontent.com/R41D3R/final-realms-modpack/main/server/server/config/simulated-server-1.toml.bak",
-                "sha256": "43f69b72502cfeb43e4b8584a1a8955120fcd25b31217ce199525127fd76e587",
-                "size": 6987,
+                "sha256": "4eb8a653258d8f7aa303fa77c34df800785b543116d5bc41ae613adec8000202",
+                "size": 6763,
                 "executable": false
             },
             {
@@ -1428,8 +1428,8 @@
             {
                 "path": "config/trading_floor-server.toml",
                 "url": "https://raw.githubusercontent.com/R41D3R/final-realms-modpack/main/server/server/config/trading_floor-server.toml",
-                "sha256": "ddd752e3e1214f68a42729d13f6bcaed68073fa9fba23a8afcda5d8c98de1548",
-                "size": 599,
+                "sha256": "405ee8a88c2a978437ab44289b9ed7205e81daf04f5bfb989052fbed12b0e30d",
+                "size": 583,
                 "executable": false
             },
             {
@@ -1847,7 +1847,7 @@
             },
             {
                 "path": "libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar",
-                "url": "https://raw.githubusercontent.com/R41D3R/final-realms-modpack/main/server/server/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar",
+                "url": "https://raw.githubusercontent.com/R41D3R/final-realms-modpack/main/server/server/libraries/net/fabricmc/sponge-mixin/0.15.2%2Bmixin.0.8.7/sponge-mixin-0.15.2%2Bmixin.0.8.7.jar",
                 "sha256": "1d45cfe3ae4a2eab38dc74276803748cf799088986260d6d912e50ddb35d15c5",
                 "size": 1494751,
                 "executable": false
@@ -2323,7 +2323,7 @@
             },
             {
                 "path": "mods/MossyLib-1.3.0+1.21.1+neoforge.jar",
-                "url": "https://raw.githubusercontent.com/R41D3R/final-realms-modpack/main/server/server/mods/MossyLib-1.3.0+1.21.1+neoforge.jar",
+                "url": "https://raw.githubusercontent.com/R41D3R/final-realms-modpack/main/server/server/mods/MossyLib-1.3.0%2B1.21.1%2Bneoforge.jar",
                 "sha256": "63ce2f46b8febd665249506334ba54bb46f4219fe8de47165223eb17924cf03f",
                 "size": 178053,
                 "executable": false
@@ -2414,14 +2414,14 @@
             },
             {
                 "path": "mods/connector-2.0.0-beta.14+1.21.1-full.jar",
-                "url": "https://raw.githubusercontent.com/R41D3R/final-realms-modpack/main/server/server/mods/connector-2.0.0-beta.14+1.21.1-full.jar",
+                "url": "https://raw.githubusercontent.com/R41D3R/final-realms-modpack/main/server/server/mods/connector-2.0.0-beta.14%2B1.21.1-full.jar",
                 "sha256": "a79817f1076e2e6499b0ab09c4e8c032d04b071341b66d036c3d96112804e51b",
                 "size": 4526785,
                 "executable": false
             },
             {
                 "path": "mods/continuity-3.0.0+1.21.neoforge.jar",
-                "url": "https://raw.githubusercontent.com/R41D3R/final-realms-modpack/main/server/server/mods/continuity-3.0.0+1.21.neoforge.jar",
+                "url": "https://raw.githubusercontent.com/R41D3R/final-realms-modpack/main/server/server/mods/continuity-3.0.0%2B1.21.neoforge.jar",
                 "sha256": "4cc0a4a09ae09c64bb567e42381652b700f9cade5067a75e83115662cc475f0a",
                 "size": 1014626,
                 "executable": false
@@ -2442,7 +2442,7 @@
             },
             {
                 "path": "mods/copycats-3.0.4+mc.1.21.1-neoforge.jar",
-                "url": "https://raw.githubusercontent.com/R41D3R/final-realms-modpack/main/server/server/mods/copycats-3.0.4+mc.1.21.1-neoforge.jar",
+                "url": "https://raw.githubusercontent.com/R41D3R/final-realms-modpack/main/server/server/mods/copycats-3.0.4%2Bmc.1.21.1-neoforge.jar",
                 "sha256": "8480e2a62eaa625f75776831c1d8a9ef3d77d2d816fa2e67566c6ec25ba745d1",
                 "size": 1791747,
                 "executable": false
@@ -2540,14 +2540,14 @@
             },
             {
                 "path": "mods/forgified-fabric-api-0.116.7+2.2.4+1.21.1.jar",
-                "url": "https://raw.githubusercontent.com/R41D3R/final-realms-modpack/main/server/server/mods/forgified-fabric-api-0.116.7+2.2.4+1.21.1.jar",
+                "url": "https://raw.githubusercontent.com/R41D3R/final-realms-modpack/main/server/server/mods/forgified-fabric-api-0.116.7%2B2.2.4%2B1.21.1.jar",
                 "sha256": "68abf2864e957df26ac0cc3bd5352ee67880e052b47a80f22f28556c1179f18d",
                 "size": 5569793,
                 "executable": false
             },
             {
                 "path": "mods/friendsandfoes-neoforge-4.0.25+mc1.21.1.jar",
-                "url": "https://raw.githubusercontent.com/R41D3R/final-realms-modpack/main/server/server/mods/friendsandfoes-neoforge-4.0.25+mc1.21.1.jar",
+                "url": "https://raw.githubusercontent.com/R41D3R/final-realms-modpack/main/server/server/mods/friendsandfoes-neoforge-4.0.25%2Bmc1.21.1.jar",
                 "sha256": "a3dfe4783e71c27a0d0cd63ecfb927f67c5fe5dc49390b1b3e46f7a84567fdab",
                 "size": 5212025,
                 "executable": false
@@ -2589,7 +2589,7 @@
             },
             {
                 "path": "mods/midnightlib-neoforge-1.9.2+1.21.1.jar",
-                "url": "https://raw.githubusercontent.com/R41D3R/final-realms-modpack/main/server/server/mods/midnightlib-neoforge-1.9.2+1.21.1.jar",
+                "url": "https://raw.githubusercontent.com/R41D3R/final-realms-modpack/main/server/server/mods/midnightlib-neoforge-1.9.2%2B1.21.1.jar",
                 "sha256": "adb29c10b3bdc2fd1a1cb8f4cbeb0280f7d15af1a76ee3074d2db1eec7fe28e7",
                 "size": 60347,
                 "executable": false
@@ -2603,7 +2603,7 @@
             },
             {
                 "path": "mods/mru-1.0.19+LTS+1.21.1+neoforge.jar",
-                "url": "https://raw.githubusercontent.com/R41D3R/final-realms-modpack/main/server/server/mods/mru-1.0.19+LTS+1.21.1+neoforge.jar",
+                "url": "https://raw.githubusercontent.com/R41D3R/final-realms-modpack/main/server/server/mods/mru-1.0.19%2BLTS%2B1.21.1%2Bneoforge.jar",
                 "sha256": "ed025100de31f5635d48a5a0cc4bc9c701d885bf3777e0c2ad8af5f2cad4601a",
                 "size": 243953,
                 "executable": false
@@ -2645,7 +2645,7 @@
             },
             {
                 "path": "mods/sounds-2.4.22+lts+1.21.1-neoforge.jar",
-                "url": "https://raw.githubusercontent.com/R41D3R/final-realms-modpack/main/server/server/mods/sounds-2.4.22+lts+1.21.1-neoforge.jar",
+                "url": "https://raw.githubusercontent.com/R41D3R/final-realms-modpack/main/server/server/mods/sounds-2.4.22%2Blts%2B1.21.1-neoforge.jar",
                 "sha256": "d3bda0a7a5b1f267747da182e788139da380f625eaf96a5c2a8fa5bcb8d908b7",
                 "size": 8732437,
                 "executable": false
